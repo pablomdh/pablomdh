@@ -5,5 +5,5 @@
 I am a problem solver and a proffesional Googleer if that’s a thing.
 I have more than 5 years of experience in economy and finance, taking part on numerous projects both as a member and as team leader and involving diverse topics such as Business Intelligence, Marketing and Datascience.
 
-- 🌱 I’m currently studying and working on machine learning and programming oon Javascript and Python.
+- 🌱 I’m currently studying and working on machine learning and programming on Javascript and Python.
 - 📫 How to reach me:   https://www.linkedin.com/in/pablo-dubourdieu/ 
