@@ -8,4 +8,4 @@ I have more than 5 years of experience in economy and finance, taking part on nu
 - 🌱 I’m currently studying and working on machine learning and programming on Javascript and Python.
 - 📫 How to reach me:   https://www.linkedin.com/in/pablo-dubourdieu/ 
 
-- Chek out my latest project! https://frontend-e-commerce-react.vercel.app/
+- Chek out my latest project! https://frontend-e-commerce-react-steel.vercel.app/
